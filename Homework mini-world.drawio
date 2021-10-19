@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-19T18:01:02.884Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="4KQytZwVaM_Itetev5Jx" version="15.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-19T18:08:42.089Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="CVZjOXTNOPO7OdE98iB4" version="15.5.6" type="github">
   <diagram id="5pcc0ganvHvBY2v5KXQB" name="Page-1">
-    <mxGraphModel dx="454" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1907" dy="934" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,25 +11,25 @@
           <mxGeometry x="780" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TjpmY4g9Ldw4xO4XQk8n-4" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;customer&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="170" width="120" height="60" as="geometry" />
+          <mxGeometry x="540" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TjpmY4g9Ldw4xO4XQk8n-5" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 15px&quot;&gt;employees&amp;nbsp;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="220" width="120" height="60" as="geometry" />
+          <mxGeometry x="270" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TjpmY4g9Ldw4xO4XQk8n-7" value="&lt;u&gt;employee number&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="140" y="80" width="120" height="80" as="geometry" />
+          <mxGeometry x="270" y="300" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TjpmY4g9Ldw4xO4XQk8n-8" value="first name&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="140" y="300" width="120" height="80" as="geometry" />
+          <mxGeometry x="280" y="540" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TjpmY4g9Ldw4xO4XQk8n-9" value="last name&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="110" y="440" width="120" height="80" as="geometry" />
+          <mxGeometry x="270" y="640" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TjpmY4g9Ldw4xO4XQk8n-10" value="zip code" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="40" y="180" width="120" height="80" as="geometry" />
+          <mxGeometry x="270" y="430" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TjpmY4g9Ldw4xO4XQk8n-11" value="&lt;u&gt;customer number&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="540" y="334" width="120" height="80" as="geometry" />
+          <mxGeometry x="540" y="300" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TjpmY4g9Ldw4xO4XQk8n-12" value="first name&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="550" y="440" width="120" height="80" as="geometry" />
@@ -41,7 +41,7 @@
           <mxGeometry x="550" y="630" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TjpmY4g9Ldw4xO4XQk8n-15" value="&lt;u&gt;part number&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="790" y="300" width="120" height="80" as="geometry" />
+          <mxGeometry x="780" y="300" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TjpmY4g9Ldw4xO4XQk8n-16" value="price" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="790" y="400" width="120" height="80" as="geometry" />
@@ -50,7 +50,7 @@
           <mxGeometry x="790" y="500" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TjpmY4g9Ldw4xO4XQk8n-18" value="&lt;u&gt;order number&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="300" width="120" height="80" as="geometry" />
+          <mxGeometry x="990" y="300" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TjpmY4g9Ldw4xO4XQk8n-19" value="quantities&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="1000" y="410" width="120" height="80" as="geometry" />
